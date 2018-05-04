@@ -21,3 +21,9 @@ https://www.jianshu.com/p/163db59d0774
 Android 6.0 动态权限
 https://github.com/googlesamples/easypermissions
 
+多图片选择器
+https://github.com/LuckSiege/PictureSelector
+
+图片压缩
+https://github.com/nanchen2251/CompressHelper
+
