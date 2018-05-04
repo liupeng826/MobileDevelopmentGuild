@@ -10,5 +10,7 @@ SWIFT
 https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md
 
 Android屏幕适配解决方案
-http://www.jianshu.com/p/ec5a1a30694b
-http://www.jianshu.com/p/c85c74c83927
+https://www.jianshu.com/p/1302ad5a4b04
+
+Android国际化(多语言)实现
+https://www.jianshu.com/p/163db59d0774
