@@ -12,6 +12,9 @@ https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md
 
 Android:
 
+android沉浸式状态栏 轻量 简便
+https://www.jianshu.com/p/7d1cb47bb3c6
+
 Android屏幕适配解决方案
 https://www.jianshu.com/p/1302ad5a4b04
 
